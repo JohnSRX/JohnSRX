@@ -25,6 +25,7 @@
 - <b>Regression</b>
   - [Testing Data using Regression Models)](Test_Regression_(1).ipynb)
   - [Testing Insurance Data using Regression Models)](Insurance_Regression_(1).ipynb)
+  - [Testing Home Listing Data using Polynomial Regression Models)](Polynomial_Regression_rev2_(1).ipynb)
 - <b>Decision Tree</b>
   - [Plotting Data using Decision Tree Models)](DT(1).ipynb)
   - [Plotting Insurance Data using Decision Tree Models)](Insurance_Decision_tree_(1).ipynb)
