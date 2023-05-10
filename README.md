@@ -20,9 +20,9 @@
 - <b>K-Nearest Neighbors</b>
   - [Analyze a Wine Dataset using K-Nearest Neighbors)](K_NN.ipynb)
   - [Analyze a Loan Data Set using Principal Component Analysis)](K_Nearest_Neighbors_2.ipynb)
-- <b>K-Nearest Neighbors</b>
+- <b>Naive Bayes</b>
   - [Analyzing Data using Naive Bayes Algorithm)](Naive_Bayes_(1).ipynb)
-- <b>K-Nearest Neighbors</b>
+- <b>Regression</b>
   - [Testing Data using Regression Models)](Test_Regression_(1).ipynb)
   - [Testing Insurance Data using Regression Models)](Insurance_Regression_(1).ipynb)
 - <b>Decision Tree</b>
